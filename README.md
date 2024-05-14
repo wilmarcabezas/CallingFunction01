@@ -1,7 +1,7 @@
 # Como usar FunctionCalling
 
 ## 🚀 Introducción
-Este proyecto utiliza la API de OpenAI para realizar consultas sobre el clima en diversas ubicaciones, aprovechando también la API de WeatherAPI para obtener datos meteorológicos precisos.
+Este proyecto utiliza CallingFunction para permitir a un modelo de AI llamar funciones.
 
 ## 🛠️ Instalación
 Antes de ejecutar el código, asegúrate de instalar las dependencias necesarias con npm:
